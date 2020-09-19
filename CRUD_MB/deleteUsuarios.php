@@ -42,7 +42,7 @@
         <form action="delete.php" method="POST">
       <div class="form-group">
     <label for="nome">Código</label>
-    <input type="text" class="form-control" name ="id"  placeholder="O código do nome que você deseja deletar?">
+    <input type="text" class="form-control" name ="id"  placeholder="Qual código do nome que você deseja deletar?">
     </div>
   <button type="submit" class="btn btn-danger" Value="att">Delete</button>
 </form>
