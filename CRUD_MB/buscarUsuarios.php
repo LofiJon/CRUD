@@ -43,7 +43,7 @@
     <input type="text" class="form-control" name ="consulta"  placeholder="Digite o nome que deseja buscar">
     
   </div>
-  <button type="submit" class="btn btn-primary" Value="Pesquisa">Busca</button>
+  <button type="submit" class="btn btn-warning" Value="Pesquisa">Busca</button>
 </form>
 </main>
 </div>
